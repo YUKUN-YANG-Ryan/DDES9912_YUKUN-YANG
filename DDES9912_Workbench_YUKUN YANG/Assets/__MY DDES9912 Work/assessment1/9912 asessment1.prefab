@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 7795914595625286521}
   - component: {fileID: 2708638057772975337}
   m_Layer: 0
-  m_Name: "\u5E95\u5EA7"
+  m_Name: Foundation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4889,7 +4889,7 @@ GameObject:
   - component: {fileID: 7693669247569379235}
   - component: {fileID: 8707217932951168467}
   m_Layer: 0
-  m_Name: engine
+  m_Name: motor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6492,7 +6492,7 @@ GameObject:
   - component: {fileID: 2813442402011783324}
   - component: {fileID: 8528906732508664601}
   m_Layer: 0
-  m_Name: UP
+  m_Name: TOP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

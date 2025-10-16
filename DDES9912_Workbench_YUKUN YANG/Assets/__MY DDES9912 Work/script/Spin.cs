@@ -54,4 +54,5 @@ public class Spin : MonoBehaviour
         zAcceleration = newAcceleration;
 
     }
+    
 }
